@@ -24,5 +24,7 @@ It’s usable for anyone who needs to manage address data, like for reports or l
 5. Verify that the program handles invalid data formats, such as missing fields or incorrect age values.
 
 Repository link : [https://github.com/ruveyda-ertekin/AssesmentADIT.git](https://github.com/ruveyda-ertekin/AssesmentADIT.git)
+
 Issue Resolve link : [https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac)
+
 Google Drive Link : [https://drive.google.com/drive/folders/1MKoYDt00toqzNaqo8WP74rBuMJwNiIuM?usp=sharing](https://drive.google.com/drive/folders/1MKoYDt00toqzNaqo8WP74rBuMJwNiIuM?usp=sharing)
